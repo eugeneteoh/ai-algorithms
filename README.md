@@ -1,6 +1,6 @@
 # AI Algorithms
 
-Implementations of AI algorithms
+Implementations of AI algorithms.
 
 ## Algorithms
 `gvp`: [Geometric Vector Perceptron](https://arxiv.org/abs/2009.01411)
